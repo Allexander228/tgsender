@@ -1,1 +1,1 @@
-worker: Untitled.ipynb
+web: voila --port=$PORT --no-browser Untitled.ipynb
